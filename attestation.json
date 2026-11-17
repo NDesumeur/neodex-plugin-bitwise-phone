@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.bitwise",
+  "repo": "NDesumeur/neodex-plugin-bitwise-phone",
+  "version": "1.0.0",
+  "sha256": "e212e4d016caa13025aba2b9db5591ba27774efc20ef33ea119030907cec09d7",
+  "approvedAt": "2026-11-17T18:40:02.642Z",
+  "neobase": ">=4.0.0",
+  "signature": "iJ/QvVTld8E6MPSL39G0FE6HWPamnGPu41hkKAY4XKbVVUsxQClzPgkE50cQD1FoMRjDbrNOMNmeFXn4lIEjCg=="
+}
