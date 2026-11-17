@@ -1,0 +1,25 @@
+{
+  "id": "neodex.bitwise",
+  "name": "Bitwise",
+  "version": "1.0.0",
+  "author": "NDesumeur",
+  "description": "Le binaire sous tous ses angles : un nombre en décimal, hexadécimal, binaire, octal et caractères à la fois, sur 8 à 64 bits, signé ou non, avec chaque bit cliquable. Les opérations bit à bit (AND, OR, XOR, décalages, rotations…) posées en colonnes et expliquées, le texte en octets UTF-8 et inversement, la table ASCII, et un nombre à virgule décortiqué en signe, exposant et mantisse. Masques prêts à l'emploi expliqués et décalage animé.",
+  "icon": "icon.png",
+  "entry": "index.js",
+  "view": "bitwise",
+  "neobase": ">=4.0.0",
+  "type": "app",
+  "category": "Outils",
+  "syncMode": "fusion",
+  "syncInfo": "Les derniers nombres et le texte saisis.",
+  "mobile": true,
+  "compatibility": [
+    "android"
+  ],
+  "system": false,
+  "dependencies": {},
+  "sdk": "2.1.0",
+  "permissions": [
+    "storage"
+  ]
+}
